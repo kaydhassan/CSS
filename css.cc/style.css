@@ -1,0 +1,47 @@
+h1 {
+    background-color: #0000ff;
+    color: rgb(0, 0, 0, 1);
+}
+
+div {
+    width: 100%;
+    max-width: 200px;
+    height: 25vw;
+    border: 1px solid black;
+    font-size: 12px
+    font-weight: 100;
+    font-family: "roboto", sans-serif;
+}
+
+.red {
+    color:red;
+}
+
+.blue {
+    color: blue;
+}
+
+#title {
+    font-weight: bold;
+}
+
+#sub-title {
+    font-weight: bold;
+    color: purple;
+}
+
+section {
+  height: 80vh;
+  border: 1px solid black; 
+}
+ 
+.box {
+    width: 150px;
+    height: 200px;
+    background-color:green; 
+    border: 15px solid red;
+    padding: 15px;
+    margin: 15px;
+    box-sizing: border-box;
+}
+
